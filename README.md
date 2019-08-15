@@ -1,9 +1,16 @@
-Patatap Clone App
+##Patatap Clone App
 
-Description
+
+##Description
+
+---
+
 Patatap animation app that uses letter key presses to push sound to your screen! Check it out!
 
-Sources 
+##Sources 
+
+---
+
 http://paperjs.org/
 
 
